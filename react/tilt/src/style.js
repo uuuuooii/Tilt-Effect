@@ -37,5 +37,5 @@ export const Light = styled.span`
   pointer-events: none;
   z-index: 0;
   box-shadow: 0 0 2rem rgba(255, 255, 255, 0.2);
-  filter: blur(2rem);
+  filter: blur(7rem);
 `;
